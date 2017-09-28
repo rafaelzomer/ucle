@@ -1,6 +1,7 @@
 # Custom
 **.log
 /node_modules
+/logs
 
 # heroku
 **.env
